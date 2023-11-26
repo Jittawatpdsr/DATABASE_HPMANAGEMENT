@@ -42,6 +42,3 @@ It is a function for hospital personnel. to check the appointments of the patien
 <br>
 <h2><b>ENTITY RELATIONSHIP DIAGRAM (ERD) </b></h2>
 <image src="ER Diagram/HPManagement.drawio.png">
-<br>
-<br>
-<h2><b>RELATIONSHIP BETWEEN ENTITY</b></h2>
